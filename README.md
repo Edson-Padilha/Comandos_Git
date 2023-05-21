@@ -44,6 +44,6 @@ git merge nome( Nome da branch que realizou as alterações)
 git push( Neste momento você deu Ok, tudo certo! Confira na plataforma de versionamento a atualização).
 
 Obs: você pode adicionar extensões para o git no Visual Studio( GitLeans), facilita as visulizações. 
-Crie um arquivo no diretório raiz .gitgnore(Digite o nome dos arquivos .
+Crie um arquivo no diretório raiz .gitgnore(Digite o nome dos arquivos).
 
 
